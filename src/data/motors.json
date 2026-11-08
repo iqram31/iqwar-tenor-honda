@@ -1,0 +1,1210 @@
+[
+ {
+  "slug": "icone",
+  "name": "ICON e:",
+  "category": "EV",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/ahm-light-sideview-blue-4-08102024-032201-09102024-051105.png",
+  "colors": [
+   {
+    "name": "Iconic Mint",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/icon-e-515-x-504-01-1-2-09102024-113619.png"
+   },
+   {
+    "name": "Iconic Orange",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/icon-e-515-x-504-02-1-2-09102024-113624.png"
+   },
+   {
+    "name": "Iconic Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/icon-e-515-x-504-03-1-2-09102024-113630.png"
+   },
+   {
+    "name": "Iconic Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/icon-e-515-x-504-04-1-2-09102024-113638.png"
+   },
+   {
+    "name": "Iconic White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/icon-e-515-x-504-05-1-2-09102024-113644.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "ICON e:",
+    "price": 28000000
+   }
+  ]
+ },
+ {
+  "slug": "em1e",
+  "name": "EM1 e: & EM1 e: PLUS",
+  "category": "EV",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/em1-silver-samping-400x300-tr-21122023-045018.png",
+  "colors": [
+   {
+    "name": "Innovative White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/warna-em1-white-515x504-tr-3-21122023-045422.png"
+   },
+   {
+    "name": "Intelligent Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/warna-em1-black-515x504-tr-3-21122023-045432.png"
+   },
+   {
+    "name": "Smart Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/warna-em1-red-515x504-tr-3-21122023-045443.png"
+   },
+   {
+    "name": "Excellent Matte Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/warna-em1-silver-515x504-tr-21122023-045454.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "EM1 e:",
+    "price": 40000000
+   },
+   {
+    "name": "EM1 e: PLUS",
+    "price": 40500000
+   }
+  ]
+ },
+ {
+  "slug": "cuve",
+  "name": "CUV e: & CUV e: RoadSync Duo",
+  "category": "EV",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/a01-p01-2025-cuve-mat-pearl-crater-white-rh-side-std-1-08102024-044120-09102024-053635.png",
+  "colors": [
+   {
+    "name": "Stellar Matte White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-01-1-3-09102024-125739.png"
+   },
+   {
+    "name": "Stellar Matte Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-02-1-3-09102024-125729.png"
+   },
+   {
+    "name": "Stellar Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-03-1-3-09102024-125720.png"
+   },
+   {
+    "name": "Quantum Matte White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-04-1-3-09102024-125828.png"
+   },
+   {
+    "name": "Quantum Matte Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-05-1-3-09102024-125817.png"
+   },
+   {
+    "name": "Quantum Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/515-x-504-06-1-3-09102024-125810.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CUV e:",
+    "price": 54450000
+   },
+   {
+    "name": "CUV e: RoadSync Duo",
+    "price": 59650000
+   }
+  ]
+ },
+ {
+  "slug": "beat",
+  "name": "BeAT",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/new-thumbnail-beat-1-26062026-055630.png",
+  "colors": [
+   {
+    "name": "Deluxe Matte Brown BeAT Deluxe Smart Key",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/01-9-26062026-031206.png"
+   },
+   {
+    "name": "Deluxe Matte Blue BeAT Deluxe Smart Key",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/02-11-26062026-031210.png"
+   },
+   {
+    "name": "Deluxe Matte Black BeAT Deluxe Smart Key",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/03-10-26062026-031212.png"
+   },
+   {
+    "name": "Infinite Glossy Red Blue BeAT CBS-ISS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/04-9-26062026-031215.png"
+   },
+   {
+    "name": "Infinite Matte Black BeAT CBS-ISS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/05-8-26062026-031218.png"
+   },
+   {
+    "name": "Jazz Glossy Blue Black BeAT CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/06-5-26062026-031221.png"
+   },
+   {
+    "name": "Jazz Glossy Red Black BeAT CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/08-3-26062026-031231.png"
+   },
+   {
+    "name": "Jazz Glossy Black BeAT CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/07-4-26062026-031228.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "BeAT CBS",
+    "price": 19380000
+   },
+   {
+    "name": "BeAT CBS-ISS",
+    "price": 20251000
+   },
+   {
+    "name": "BeAT Deluxe Smart Key",
+    "price": 20781000
+   }
+  ]
+ },
+ {
+  "slug": "beat-street",
+  "name": "BeAT Street",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/new-thumbnail-beat-street-1-26062026-055644.png",
+  "colors": [
+   {
+    "name": "Street Glossy Grey BeAT Street",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-3-1-1-30062026-033754.png"
+   },
+   {
+    "name": "Street Matte Brown BeAT Street",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-2-3-26062026-063605.png"
+   },
+   {
+    "name": "Street Matte Black BeAT Street",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-1-3-26062026-063608.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "BeAT Street",
+    "price": 20251000
+   }
+  ]
+ },
+ {
+  "slug": "genio",
+  "name": "Genio",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/geniothumbnail400x300pxlbk-27102026-075354.png",
+  "colors": [
+   {
+    "name": "Fabulous Glossy Grey",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-01-27102026-025523.png"
+   },
+   {
+    "name": "Fabulous Matte Brown",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-02-27102026-025528.png"
+   },
+   {
+    "name": "Fabulous Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-03-27102026-025542.png"
+   },
+   {
+    "name": "Vibrant Blue & White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-04-27102026-025549.png"
+   },
+   {
+    "name": "Vibrant Black & White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-05-27102026-025556.png"
+   },
+   {
+    "name": "Vibrant Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-web-515x504pxlbk-06-27102026-025604.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Genio CBS Special",
+    "price": 20800000
+   },
+   {
+    "name": "Genio CBS-ISS",
+    "price": 21220000
+   }
+  ]
+ },
+ {
+  "slug": "scoopy",
+  "name": "Scoopy",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300-copy-1-13112025-030828.png",
+  "colors": [
+   {
+    "name": "Stylish Grey",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-01-13112025-031205.png"
+   },
+   {
+    "name": "Stylish Green",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-02-13112025-031208.png"
+   },
+   {
+    "name": "Stylish Beige",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-03-13112025-031211.png"
+   },
+   {
+    "name": "Fashion Cream",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-04-13112025-031214.png"
+   },
+   {
+    "name": "Fashion Mint",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-05-13112025-031217.png"
+   },
+   {
+    "name": "Fashion Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-06-13112025-031220.png"
+   },
+   {
+    "name": "Fashion Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-07-13112025-031223.png"
+   },
+   {
+    "name": "Prestige White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-08-13112025-031225.png"
+   },
+   {
+    "name": "Prestige Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-09-13112025-031228.png"
+   },
+   {
+    "name": "Prestige Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-10-13112025-031231.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Scoopy Fashion",
+    "price": 23376000
+   },
+   {
+    "name": "Scoopy Prestige",
+    "price": 24181000
+   },
+   {
+    "name": "Scoopy Stylish",
+    "price": 24181000
+   }
+  ]
+ },
+ {
+  "slug": "vario-125",
+  "name": "Vario 125",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/sideview-advance-blue-400x300pxl-copy-1-07042026-080202.png",
+  "colors": [
+   {
+    "name": "Street Black Coral",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-1-9-08122025-120222.jpg"
+   },
+   {
+    "name": "Street Black Purple",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-2-6-08122025-120224.jpg"
+   },
+   {
+    "name": "Street Black White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-3-2-08122025-120226.jpg"
+   },
+   {
+    "name": "Advance Blue",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-4-1-05122025-010949.jpg"
+   },
+   {
+    "name": "Advance Matte Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-5-1-05122025-010951.jpg"
+   },
+   {
+    "name": "Advance Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-6-1-05122025-010953.jpg"
+   },
+   {
+    "name": "Sporty Mint",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-7-1-05122025-010956.jpg"
+   },
+   {
+    "name": "Sporty Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-8-1-05122025-010958.jpg"
+   },
+   {
+    "name": "Sporty Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-9-1-05122025-011001.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Vario 125 CBS",
+    "price": 24810000
+   },
+   {
+    "name": "Vario 125 CBS-ISS",
+    "price": 26465000
+   }
+  ]
+ },
+ {
+  "slug": "vario-125-street",
+  "name": "Vario 125 Street",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/1-73-08122025-115926.png",
+  "colors": [
+   {
+    "name": "Street Black Coral",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-1-8-05122025-010941.jpg"
+   },
+   {
+    "name": "Street Black Purple",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-2-5-05122025-010944.jpg"
+   },
+   {
+    "name": "Street Black White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-3-1-05122025-010946.jpg"
+   },
+   {
+    "name": "Advance Blue",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-4-2-08122025-120253.jpg"
+   },
+   {
+    "name": "Advance Matte Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-5-2-08122025-120254.jpg"
+   },
+   {
+    "name": "Advance Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-6-2-08122025-120256.jpg"
+   },
+   {
+    "name": "Sporty Mint",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-7-2-08122025-120259.jpg"
+   },
+   {
+    "name": "Sporty Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-8-2-08122025-120301.jpg"
+   },
+   {
+    "name": "Sporty Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-9-2-08122025-120303.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Vario 125 Street",
+    "price": 26799000
+   }
+  ]
+ },
+ {
+  "slug": "revo-x",
+  "name": "Revo",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thmbnail-product-2-24012022-110536.png",
+  "colors": [
+   {
+    "name": "Revo X Attractive Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/attractive-red-2-24012022-110047.jpg"
+   },
+   {
+    "name": "Revo X Quantum Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/quantum-black-4-24012022-110051.jpg"
+   },
+   {
+    "name": "Revo Fit Raving Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/raving-red-2-24012022-110055.jpg"
+   },
+   {
+    "name": "Revo Fit Galaxy Blue",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/galaxy-blue-2-24012022-110058.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Revo Fit",
+    "price": 18085000
+   },
+   {
+    "name": "Revo X",
+    "price": 20015000
+   }
+  ]
+ },
+ {
+  "slug": "cb-150-verza",
+  "name": "CB150 Verza",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/verza-product-thumbnail-400x300px-2-24042025-082912.png",
+  "colors": [
+   {
+    "name": "BOLD RED",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/verza-varian-warna-515x504px-bold-red-1-24042025-082818.png"
+   },
+   {
+    "name": "MACHO MATTE BLACK",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/verza-varian-warna-515x504px-macho-matte-black-1-24042025-082822.png"
+   },
+   {
+    "name": "MASCULINE BLACK",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/verza-varian-warna-515x504px-masculine-black-1-24042025-082825.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CB150 Verza SW Masculine Black",
+    "price": 24460000
+   },
+   {
+    "name": "CB150 Verza CW Macho Matte Black",
+    "price": 25090000
+   },
+   {
+    "name": "CB150 Verza CW Bold Red",
+    "price": 25090000
+   }
+  ]
+ },
+ {
+  "slug": "supra-x-125-fi",
+  "name": "Supra X 125 FI",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-new-supra-x-5-04032022-102907.png",
+  "colors": [
+   {
+    "name": "Golden Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-1-2-04032022-102011.jpg"
+   },
+   {
+    "name": "Energetic Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-2-2-04032022-102025.jpg"
+   },
+   {
+    "name": "Quantum Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-3-2-04032022-102034.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Supra X 125 Spoke FI",
+    "price": 21500000
+   },
+   {
+    "name": "Supra X 125 CW FI",
+    "price": 22525000
+   }
+  ]
+ },
+ {
+  "slug": "sonic-150-r",
+  "name": "Sonic 150R",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/sonic-150r-550x413px-r1-22112024-041432.png",
+  "colors": [
+   {
+    "name": "New Energetic Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/new-energetic-red-1-16042021-014724.jpg"
+   },
+   {
+    "name": "New Activo Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/new-activo-black-1-16042021-014727.jpg"
+   },
+   {
+    "name": "New Aggresso Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/new-aggresso-matte-black-1-16042021-014730.jpg"
+   },
+   {
+    "name": "Honda Racing Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/honda-racing-red-1-16042021-014733.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Sonic 150R Activo Black",
+    "price": 28965000
+   },
+   {
+    "name": "Sonic 150R Energetic Red",
+    "price": 28965000
+   },
+   {
+    "name": "Sonic 150R Aggresso Matte Black",
+    "price": 29370000
+   },
+   {
+    "name": "Sonic 150R Honda Racing Red",
+    "price": 29370000
+   }
+  ]
+ },
+ {
+  "slug": "supra-gtr-150",
+  "name": "GTR 150",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/supra-gtr-150-4-27052021-092133.png",
+  "colors": [
+   {
+    "name": "Sporty Spartan Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/sporty-spartan-red-1-16042021-015535.jpg"
+   },
+   {
+    "name": "Exclusive Matte Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/exclusive-matte-silver-1-16042021-015547.jpg"
+   },
+   {
+    "name": "Sporty Gun Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/sporty-gun-black-1-16042021-015551.jpg"
+   },
+   {
+    "name": "Exclusive Matte Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/exclusive-matte-red-1-16042021-015554.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Supra GTR 150 Sporty",
+    "price": 27390000
+   },
+   {
+    "name": "Supra GTR 150 Exclusive",
+    "price": 27640000
+   }
+  ]
+ },
+ {
+  "slug": "cb-150-r",
+  "name": "CB150R Streetfire",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/cb1504-550x413px-r1-22112024-041458.png",
+  "colors": [
+   {
+    "name": "New - Fury Matte Red - Special Edition",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/variant-5-7-07052021-090322.jpg"
+   },
+   {
+    "name": "New - Raptor Matte Black  - Special Edition",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/variant-1-7-07052021-090326.jpg"
+   },
+   {
+    "name": "New - Armored Matte Grey - Special Edition",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/variant-3-7-07052021-090331.jpg"
+   },
+   {
+    "name": "New - Stinger Red Black  - Standard",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/variant-4-8-07052021-090335.jpg"
+   },
+   {
+    "name": "New - Macho Black - Standard",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product/colors/variant-2-9-07052021-090338.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CB150R Streetfire - STD Macho Black",
+    "price": 35280000
+   },
+   {
+    "name": "CB150R Streetfire - STD Stinger Red Black",
+    "price": 35280000
+   },
+   {
+    "name": "CB150R Streetfire – SE Fury Matte Red",
+    "price": 36150000
+   },
+   {
+    "name": "CB150R Streetfire – SE Raptor Matte Black",
+    "price": 36150000
+   },
+   {
+    "name": "CB150R Streetfire - SE Fury Amored Matte Grey",
+    "price": 36150000
+   }
+  ]
+ },
+ {
+  "slug": "super-cub-c125",
+  "name": "Supercub C125",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/400x300-pxl-03052024-061642-1-10052024-062406.png",
+  "colors": [
+   {
+    "name": "Matte Axis Grey Metallicg Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/matte-axis-gray-metallic-515x504pxl-1-10052024-062437.png"
+   },
+   {
+    "name": "Pearl Cadet Grey",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/pearl-cadet-gray-515x504pxl-1-10052024-062451.png"
+   },
+   {
+    "name": "Pearl Nebula Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/pearl-nebula-red515x504pxl-1-10052024-062506.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Super Cub C125",
+    "price": 80241000
+   }
+  ]
+ },
+ {
+  "slug": "cb-150-x",
+  "name": "CB150X",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/fa-ahm-sport-mid-thumbnail-550x413px-21112024-100503.png",
+  "colors": [
+   {
+    "name": "Sahara Matte Brown",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/fa-ahm-sport-mid-variant-warna-matte-brown-515x504pxl-ys-7-24012024-042143.jpg"
+   },
+   {
+    "name": "Amazon Matte Green",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/fa-ahm-sport-mid-variant-warna-matte-green-515x504pxl-ys-5-24012024-042203.jpg"
+   },
+   {
+    "name": "Mandala Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/mandala-red-1-1-24012024-045938.jpg"
+   },
+   {
+    "name": "Volcano Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/advance-black-2-1-24012024-050512.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CB150X - Mandala Red",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Amazon Matte Green",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Sahara Matte Brown",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Volcano Matte Black (SE)",
+    "price": 35730000
+   }
+  ]
+ },
+ {
+  "slug": "honda-ct125",
+  "name": "CT125",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/productthumbnail-copy-09092026-074822.png",
+  "colors": [
+   {
+    "name": "Brown",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varianwarna-001-1-09092026-042614.png"
+   },
+   {
+    "name": "Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varianwarna-002-09092026-042619.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CT125 Matte Fresco Brown",
+    "price": 83500000
+   },
+   {
+    "name": "CT125 Glowing Red",
+    "price": 83500000
+   }
+  ]
+ },
+ {
+  "slug": "vario-evo-160",
+  "name": "Vario Evo 160",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300px-7-24062026-031501.png",
+  "colors": [
+   {
+    "name": "Ultimate Glossy Purple",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-abs-ultimate-glossy-purple-515x504px-24062026-030628.png"
+   },
+   {
+    "name": "Ultimate Matte Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-abs-ultimate-matte-red-515x504px-24062026-030637.png"
+   },
+   {
+    "name": "Ultimate Matte White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-abs-ultimate-matte-white-515x504px-24062026-030640.png"
+   },
+   {
+    "name": "Ultimate Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-abs-ultimate-matte-black-515x504px-24062026-030644.png"
+   },
+   {
+    "name": "Nitro Glossy Grey Lime",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-cbs-nitro-glossy-grey-lime-515x504px-24062026-030651.png"
+   },
+   {
+    "name": "Nitro Matte Black Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-cbs-nitro-matte-black-red-515x504px-24062026-030655.png"
+   },
+   {
+    "name": "Glossy White Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-cbs-glossy-white-red-515x504px-24062026-030702.png"
+   },
+   {
+    "name": "Glossy Blue Lime",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-cbs-glossy-blue-lime-515x504px-24062026-030706.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Vario Evo 160 CBS",
+    "price": 28525000
+   },
+   {
+    "name": "Vario Evo 160 CBS Nitro",
+    "price": 28775000
+   },
+   {
+    "name": "Vario Evo 160 ABS",
+    "price": 31406000
+   }
+  ]
+ },
+ {
+  "slug": "crf-150-l",
+  "name": "CRF150L",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/revproduct-thumbnail-crf150l-400x300px-28072025-020216.png",
+  "colors": [
+   {
+    "name": "Extreme Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-crf-150l-5mb-extreme-red-28072025-111507.png"
+   },
+   {
+    "name": "Extreme White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-crf-150l-5mb-extreme-white-28072025-111513.png"
+   },
+   {
+    "name": "Extreme Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-crf-150l-5mb-extreme-black-28072025-111522.png"
+   },
+   {
+    "name": "Extreme Green",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-crf-150l-5mb-extreme-green-28072025-111533.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CRF150L- Extreme Black",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme Red",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme White",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme Green",
+    "price": 38905000
+   }
+  ]
+ },
+ {
+  "slug": "stylo-160",
+  "name": "Stylo 160",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/stylo-royal-violet-400x300pxl-1-23092026-024521.png",
+  "colors": [
+   {
+    "name": "New Burgundy ABS Special",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-01-02042026-044627.png"
+   },
+   {
+    "name": "Royal Violet ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-ok-violet-23092026-022315.png"
+   },
+   {
+    "name": "New Royal Brown  ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-02-02042026-044630.png"
+   },
+   {
+    "name": "New Royal Blue ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-03-02042026-044632.png"
+   },
+   {
+    "name": "Royal Green ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-04-02042026-044635.png"
+   },
+   {
+    "name": "Glam Grey CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-ok-glam-grey-23092026-022309.png"
+   },
+   {
+    "name": "New Glam White  CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-05-02042026-044637.png"
+   },
+   {
+    "name": "Glam Beige  CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-06-02042026-044640.png"
+   },
+   {
+    "name": "Glam Black  CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-warna-masterr-07-02042026-044644.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Stylo 160 CBS",
+    "price": 29695000
+   },
+   {
+    "name": "Stylo 160 ABS",
+    "price": 32686000
+   },
+   {
+    "name": "Stylo 160 ABS Special",
+    "price": 34286000
+   }
+  ]
+ },
+ {
+  "slug": "pcx",
+  "name": "PCX160",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300-4-11022026-041017.png",
+  "colors": [
+   {
+    "name": "Signature Burgundy",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-09-3-11022026-060041.png"
+   },
+   {
+    "name": "Signature Brown",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-10-3-11022026-060043.png"
+   },
+   {
+    "name": "Phenomenal Blue",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-01-2-11022026-055530.png"
+   },
+   {
+    "name": "Phenomenal Green",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-02-2-11022026-055532.png"
+   },
+   {
+    "name": "Phenomenal Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-03-2-11022026-055535.png"
+   },
+   {
+    "name": "Phenomenal Matte White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-04-2-11022026-055538.png"
+   },
+   {
+    "name": "Exceptional Matte White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-08-3-11022026-055553.png"
+   },
+   {
+    "name": "Exceptional Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-05-3-11022026-055545.png"
+   },
+   {
+    "name": "Exceptional Matte Silver",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-06-3-11022026-055548.png"
+   },
+   {
+    "name": "Exceptional Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-515x504-07-3-11022026-055551.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "PCX160 - CBS",
+    "price": 35000000
+   },
+   {
+    "name": "PCX160 - ABS",
+    "price": 38601000
+   },
+   {
+    "name": "PCX160 - Honda RoadSync",
+    "price": 41601000
+   }
+  ]
+ },
+ {
+  "slug": "cbr-150-r",
+  "name": "CBR150R",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-cbr150r-550x413px-tr-new-2-21112024-100742.png",
+  "colors": [
+   {
+    "name": "Honda Racing Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/ahm-cbr150r-red-racing-515x504px-1-23102024-070622.png"
+   },
+   {
+    "name": "Honda Tricolor",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/ahm-cbr150r-tricolor-abs-515x504px-3-23102024-085855.png"
+   },
+   {
+    "name": "Victory Matte Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/ahm-cbr150r-matte-black-abs-515x504px-2-23102024-085905.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CBR150R Victory Matte Black Non ABS",
+    "price": 39270000
+   },
+   {
+    "name": "CBR150R Honda Tricolor Non ABS",
+    "price": 39980000
+   },
+   {
+    "name": "CBR150R Honda Racing Red Non ABS",
+    "price": 39980000
+   },
+   {
+    "name": "CBR150R Victory Matte Black ABS",
+    "price": 43535000
+   },
+   {
+    "name": "CBR150R Honda Tricolor ABS",
+    "price": 44245000
+   }
+  ]
+ },
+ {
+  "slug": "cbr-250-rr",
+  "name": "CBR250RR",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-cbr-550x413px-r1-2611-26112024-080056.png",
+  "colors": [
+   {
+    "name": "Bravery Red Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-bravery-red-black-515x504-ys-2-19092022-075424.jpg"
+   },
+   {
+    "name": "Mystique Blue",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-mystique-blue-515x504-ys-2-19092022-075428.jpg"
+   },
+   {
+    "name": "Mat Gunpowder Black Metallic",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-mat-gunpowder-black-metallic-515x504-ys-2-19092022-075432.jpg"
+   },
+   {
+    "name": "Black Freedom",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-black-freedom-final-515x504-ys-2-19092022-075444.jpg"
+   },
+   {
+    "name": "Honda Racing Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-honda-racing-red-515x504-ys-3-19092022-075451.jpg"
+   },
+   {
+    "name": "Honda Tricolor",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/variant-honda-tricolor-515x504-ys-2-19092022-075455.jpg"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CBR250RR - STD Black Freedom",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR – STD Mat Gunpowder Black Metallic",
+    "price": 79585000
+   },
+   {
+    "name": "CBR250RR - SP Mystique Blue",
+    "price": 86721000
+   },
+   {
+    "name": "CBR250RR – SPQS Bravery Red Black",
+    "price": 90771000
+   },
+   {
+    "name": "CBR250RR – SPQS Honda Racing Red",
+    "price": 91370000
+   },
+   {
+    "name": "CBR250RR - SPQS Honda Tricolor",
+    "price": 91370000
+   }
+  ]
+ },
+ {
+  "slug": "crf-250-l",
+  "name": "CRF250L",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/crf250l-web-banner-product-thumbnail-400x300px-16062025-091255.png",
+  "colors": [
+   {
+    "name": "Extreme Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/crf250l-web-banner-varian-warna-515x504px-16062025-091435.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CRF250L Extreme Red",
+    "price": 102250000
+   }
+  ]
+ },
+ {
+  "slug": "st125-dax",
+  "name": "ST125 Dax",
+  "category": "Cub",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/st1215daxproductthumbnail400x300-3-02092026-070543.png",
+  "colors": [
+   {
+    "name": "Candy Energy Orange",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/st1215daxvariantwarna515x514-01-01092026-084913.png"
+   },
+   {
+    "name": "Pearl Shining Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/st1215daxvariantwarna515x514-02-01092026-084917.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "ST125 Dax Candy Energy Orange",
+    "price": 84500000
+   },
+   {
+    "name": "ST125 Dax Pearl Shining Black",
+    "price": 84500000
+   }
+  ]
+ },
+ {
+  "slug": "adv-160",
+  "name": "ADV160",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300px-1-08092025-030705.png",
+  "colors": [
+   {
+    "name": "SUV Brown - Roadsync",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/7-26-08092025-031359.png"
+   },
+   {
+    "name": "Tough Matte Green - ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/6-rev-08092025-031405.png"
+   },
+   {
+    "name": "Tough Matte Brown - ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/5-42-08092025-031413.png"
+   },
+   {
+    "name": "Tough Matte Black - ABS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/4-42-08092025-031430.png"
+   },
+   {
+    "name": "Solid Matte Red - CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/3-42-08092025-031443.png"
+   },
+   {
+    "name": "Solid White - CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/2-61-08092025-031447.png"
+   },
+   {
+    "name": "Solid Black - CBS",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/1-67-08092025-031450.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "ADV160 - CBS",
+    "price": 37890000
+   },
+   {
+    "name": "ADV160 - ABS",
+    "price": 40936000
+   },
+   {
+    "name": "ADV160 - Honda RoadSync",
+    "price": 42450000
+   }
+  ]
+ },
+ {
+  "slug": "honda-monkey",
+  "name": "Monkey",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-16-17092026-043741.png",
+  "colors": [
+   {
+    "name": "Millenium Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/monkey-variant-color-2-4-17092026-045619.png"
+   },
+   {
+    "name": "Banana Yellow",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/monkey-variant-color-3-5-17092026-045703.png"
+   },
+   {
+    "name": "Pearl Cadet Gray",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/monkey-variant-color-1-4-17092026-045708.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Monkey Millenium Red",
+    "price": 88094000
+   },
+   {
+    "name": "Monkey Banana Yellow",
+    "price": 88094000
+   },
+   {
+    "name": "Monkey Pearl Cadet Gray",
+    "price": 88094000
+   }
+  ]
+ },
+ {
+  "slug": "forza",
+  "name": "Forza",
+  "category": "Matic",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-forza-400x300rev-1-16072025-031300.png",
+  "colors": [
+   {
+    "name": "Pearl Jublee White",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-forza-5-mb-pearl-jubilee-white-18072025-083128.png"
+   },
+   {
+    "name": "Pearl Smoky Gray",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-forza-5-mb-pearl-smoky-gray-18072025-083137.png"
+   },
+   {
+    "name": "Candy Rosy Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-forza-5-mb-candy-rosy-red-18072025-083143.png"
+   },
+   {
+    "name": "Pearl Shining Black",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/varian-warna-forza-5-mb-pearl-shining-black-18072025-083157.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "Forza",
+    "price": 98950000
+   }
+  ]
+ },
+ {
+  "slug": "crf-250-rally",
+  "name": "CRF250 RALLY",
+  "category": "Sport",
+  "thumbnail": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/crf-250-web-banner-product-thumbnail-400x300px-16062025-032317.png",
+  "colors": [
+   {
+    "name": "Extreme Red",
+    "image": "https://imagewebsite.astra-honda.com/uploads/product-draft/colors/crf-250-rally-web-banner-varian-warna-515x504px-16062025-032740.png"
+   }
+  ],
+  "variants": [
+   {
+    "name": "CRF250 RALLY - Extreme Red",
+    "price": 108080000
+   }
+  ]
+ }
+]
